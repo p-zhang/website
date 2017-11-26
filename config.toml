@@ -9,7 +9,7 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-63739546-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -28,7 +28,7 @@ defaultContentLanguageInSubdir = false
   email = "zhangp@i2r.a-star.edu.sg"
   address = "21-01, 1 Fusionopolis Way, 138632"
   office_hours = ""
-  phone = ""
+  phone = "+65 64082398"
   skype = ""
   telegram = ""
 
@@ -122,6 +122,10 @@ defaultContentLanguageInSubdir = false
   #   google-scholar, arxiv, orcid, researchgate, mendeley
   #
   #   Full list: https://jpswalsh.github.io/academicons/
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/peng-zhang-68242a59"
 
   [[params.social]]
     icon = "envelope"

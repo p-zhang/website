@@ -12,7 +12,8 @@ weight = 1
 # List your academic interests.
 [interests]
   interests = [
-    "Sparse Signal Processing",
+    "High Dimensional Statistical Signal Processing",
+    "Machine Learning",
     "Random Matrix Theory",
     "Lattice",
     "Scheduling Algorithms",
@@ -38,6 +39,6 @@ weight = 1
 
 # Biography
 
-**Peng Zhang** received the B.Eng. (with first-class honors) degree in Electrical and Electronic Engineering from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx), Singapore, in 2011. He received the Ph.D. degree in the Electrical and Electronic Engineering Department at [Imperial College London](https://www.imperial.ac.uk/), UK, in 2016. He is currently a Research Scientist with the [Institute for Infocomm Research](http://www.i2r.a-star.edu.sg/) (I2R), Singapore. His research interests include sparse signal processing, random matrix theory, lattice and scheduling algorithms.
+**Peng Zhang** received the B.Eng. with first-class honors degree in Electrical and Electronic Engineering from [Nanyang Technological University](http://www.ntu.edu.sg/Pages/home.aspx), Singapore, in 2011 (top 5%). He received the Ph.D. degree in the Electrical and Electronic Engineering Department at [Imperial College London](https://www.imperial.ac.uk/), UK, in 2016 (fully funded scholarship from A<sup>\*</sup>STAR). He is currently a Research Scientist with the [Institute for Infocomm Research](http://www.i2r.a-star.edu.sg/) (I2R), Singapore. His research interests include sparse signal processing, random matrix theory, lattice and scheduling algorithms.
 
-Dr. Zhang is a recipient of the A*STAR Graduate Scholarship (Overseas) from the Agency for Science, Technology, and Research ([A*STAR](http://www.a-star.edu.sg/)), Singapore.
+Dr. Zhang is a recipient of the A<sup>\*</sup>STAR Graduate Scholarship (Overseas) from the Agency for Science, Technology, and Research ([A<sup>\*</sup>STAR](http://www.a-star.edu.sg/)), Singapore. CV is available [here](https://github.com/p-zhang/p-zhang.github.io/tree/master/archive/Peng_Zhang_CV.pdf).

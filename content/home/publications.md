@@ -34,4 +34,4 @@ detailed_list = false
 
 **Peng Zhang**, Lu Gan, Sumei Sun and Cong Ling, "[Deterministic sequences for compressive MIMO channel estimation](http://ieeexplore.ieee.org/document/6811415/)," ([code](https://github.com/p-zhang/p-zhang.github.io/tree/master/archive/myresearch/det_sqn_chn_est)) 21st European Signal Processing Conference (EUSIPCO 2013), Marrakech, 2013, pp. 1-5.
 
-**Ph.D. Thesis**, "[Structured Sensing for Estimation of High-Dimensional Data](https://spiral.imperial.ac.uk/bitstream/10044/1/49415/1/Zhang-P-2016-PhD-Thesis.pdf)," Imperial College London, 2016
+**Ph.D. Thesis**, "[Structured Sensing for Estimation of High-Dimensional Data](https://spiral.imperial.ac.uk/bitstream/10044/1/49415/1/Zhang-P-2016-PhD-Thesis.pdf)," Imperial College London, 2016.

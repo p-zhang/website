@@ -19,11 +19,11 @@ count = 10
 detailed_list = false
 
 +++
-**Peng Zhang** and Sumei Sun, "Decentralized Network Anomaly Detection via A Riemannian Cluster Approach," IEEE Globecom, 2017, _accepted_.
+**Peng Zhang** and Sumei Sun, "[Decentralized Network Anomaly Detection via A Riemannian Cluster Approach](http://ieeexplore.ieee.org/document/8254537/)," IEEE Globecom, 2017.
 
-**Peng Zhang**, Lu Gan, Cong Ling, and Sumei Sun, "[Uniform Recovery Bounds for Structured Random Matrices in Corrupted Compressed Sensing](https://arxiv.org/abs/1706.09087)," _submitted_.
+**Peng Zhang**, Lu Gan, Cong Ling, and Sumei Sun, "[Uniform Recovery Bounds for Structured Random Matrices in Corrupted Compressed Sensing](https://arxiv.org/abs/1706.09087)," IEEE Transactions on Signal Processing, _accepted_.
 
-**Peng Zhang**, Lu Gan, Cong Ling, and Sumei Sun, "[Atomic Norm Denoising-Based Joint Channel Estimation and Faulty Antenna Detection for Massive MIMO](https://arxiv.org/abs/1709.06832)," IEEE Transactions on Vehicular Technology, _accepted_.
+**Peng Zhang**, Lu Gan, Cong Ling, and Sumei Sun, "[Atomic Norm Denoising-Based Joint Channel Estimation and Faulty Antenna Detection for Massive MIMO](https://arxiv.org/abs/1709.06832)," IEEE Transactions on Vehicular Technology, _accepted_. ([IEEE _Xplore_](http://ieeexplore.ieee.org/document/8053836/))
 
 **Peng Zhang**, Lu Gan, Sumei Sun, and Cong Ling, "[Modulated Unit-Norm Tight Frames for Compressed Sensing](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7093188&newsearch=true&queryText=unit%20norm%20tight%20frames%20compressed%20sensing)," ([code](https://github.com/p-zhang/p-zhang.github.io/tree/master/archive/myresearch/udb_matlab_code)) IEEE Transactions on Signal Processing, vol. 63, no. 15, pp. 3974-3985, Aug. 2015.
 (poster presented at UCL-Duke workshop on Sensing and Analysis of High-Dimensional Data 2014)

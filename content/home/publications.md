@@ -21,7 +21,7 @@ detailed_list = false
 +++
 **Peng Zhang** and Sumei Sun, "[Decentralized Network Anomaly Detection via A Riemannian Cluster Approach](http://ieeexplore.ieee.org/document/8254537/)," IEEE Global Communications Conference (GLOBECOM), Singapore, 2017, pp. 1-6.
 
-**Peng Zhang**, Lu Gan, Cong Ling, and Sumei Sun, "[Uniform Recovery Bounds for Structured Random Matrices in Corrupted Compressed Sensing](https://arxiv.org/abs/1706.09087)," IEEE Transactions on Signal Processing, _accepted_.
+**Peng Zhang**, Lu Gan, Cong Ling, and Sumei Sun, "[Uniform Recovery Bounds for Structured Random Matrices in Corrupted Compressed Sensing](https://arxiv.org/abs/1706.09087)," IEEE Transactions on Signal Processing, _accepted_. ([IEEE _Xplore_](https://ieeexplore.ieee.org/document/8292873/))
 
 **Peng Zhang**, Lu Gan, Cong Ling, and Sumei Sun, "[Atomic Norm Denoising-Based Joint Channel Estimation and Faulty Antenna Detection for Massive MIMO](https://arxiv.org/abs/1709.06832)," IEEE Transactions on Vehicular Technology, _accepted_. ([IEEE _Xplore_](http://ieeexplore.ieee.org/document/8053836/))
 
